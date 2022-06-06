@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matthewgomezcullen
-- 👀 I’m interested in artificial intelligence, quantum computing, and web design
-- 🌱 I’m currently learning Java, Django, and React JS
+- 👀 I’m interested in artificial intelligence, quantum computing, and web development
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me: mattgc1282@hotmail.co.uk 
 
