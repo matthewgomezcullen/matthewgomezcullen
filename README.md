@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matthewgomezcullen
-- 👀 I’m interested in artificial intelligence, quantum computing, and web development
+- 👀 I’m interested in artificial intelligence, quantum computing, and system programming
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on web development
+- 💞️ I’m looking to collaborate on both application and system programming
 - 📫 How to reach me: mattgc1282@hotmail.co.uk 
 
 <!---
