@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @matthewgomezcullen
-I am a 3rd year undergraduate at UCL studying computer science
+I am a Master's student in Advanced Computer Science at Oxford.
 
 ### Languages and Frameworks
 <p style="display:flex; justify-content: center; flex-wrap: wrap;">
